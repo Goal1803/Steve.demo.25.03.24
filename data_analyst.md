@@ -1,3 +1,9 @@
-1. data collecting
-2. data standardizing
-3. analizing
+
+# Things a Data Analyst does
+---
+1. Collects nessesary Data
+2. cleans unnessesary data
+3. solves problems with data
+4.  data collecting
+5. data standardizing
+6. analizing
